@@ -1,3 +1,2 @@
 # MS-Payments
-dev
 
